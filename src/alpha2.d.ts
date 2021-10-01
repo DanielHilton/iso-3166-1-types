@@ -1,4 +1,4 @@
-export declare type Aplha2 =
+export declare type Alpha2 =
   | "AD"
   | "AE"
   | "AF"
