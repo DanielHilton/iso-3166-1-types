@@ -1,0 +1,23 @@
+{
+  "name": "iso-3166-1-types",
+  "version": "1.0.0",
+  "description": "A package which defined ISO-3166-1 types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielHilton/iso-3166-1-types.git"
+  },
+  "keywords": [
+    "iso-3166-1",
+    "iso-3166"
+  ],
+  "author": "Daniel Hilton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielHilton/iso-3166-1-types/issues"
+  },
+  "homepage": "https://github.com/DanielHilton/iso-3166-1-types#readme"
+}
