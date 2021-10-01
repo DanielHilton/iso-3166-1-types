@@ -1,4 +1,4 @@
-export declare type Alpha2 =
+export declare type Iso31661Alpha2 =
   | "AD"
   | "AE"
   | "AF"

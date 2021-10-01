@@ -1,4 +1,4 @@
-export type Alpha3 =
+export type Iso31661Alpha3 =
   | "ABW"
   | "AFG"
   | "AGO"
